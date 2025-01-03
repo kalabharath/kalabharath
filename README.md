@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kalabharath
-- 👀 I’m interested in ... Protein Structure prediciton/modeling/determination using principals and ML.
+- 👀 I’m interested in ... Protein Structure prediciton/modeling/determination using first principals and ML.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...kalabharath@gmail.com
